@@ -2,6 +2,8 @@
 
 This is a Realtime Chat Application built using the MERN stack (MongoDB, Express, React, Node.js). It features user authentication, real-time messaging, and profile management.
 
+Visit Link : https://loquax.onrender.com/
+
 ## Features
 - User Authentication
 - Real-time Messaging
